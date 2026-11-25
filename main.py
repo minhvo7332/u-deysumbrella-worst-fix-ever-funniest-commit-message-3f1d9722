@@ -6,6 +6,9 @@
 # no users") that shows the repair broke more than it mended. It reads like
 # something a tired engineer would actually type at the end of a bad day,
 # and the irony is specific to this fix, not a generic "broke everything".
+# Note on the punctuation: the em dash is doing the joke's timing — the fix
+# in one breath, then the deadpan scoreboard after the pause. A hyphen
+# would read like a range; the dash reads like a shrug.
 import os
 import stat
 
